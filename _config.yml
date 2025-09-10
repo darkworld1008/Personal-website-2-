@@ -1,0 +1,14 @@
+---
+# Basic Jekyll Configuration
+title: "Personal Website"
+description: "Welcome to my personal website"
+baseurl: ""
+url: "https://darkworld1008.github.io/Personal-website-2-"
+
+# Source Directory
+source: .
+
+# Build Settings
+markdown: kramdown
+theme: minima
+---
